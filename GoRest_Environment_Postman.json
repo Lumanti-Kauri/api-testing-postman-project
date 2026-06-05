@@ -1,0 +1,34 @@
+{
+	"id": "d026e62c-ee93-490b-ae50-bc001bb1897a",
+	"name": "GoRest QA",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "user_id",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "email",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"color": 120,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-06-05T07:54:12.498Z",
+	"_postman_exported_using": "Postman/12.12.6"
+}
