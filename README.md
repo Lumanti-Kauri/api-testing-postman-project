@@ -57,6 +57,6 @@ This project demonstrates API testing using Postman on the GoRest API. It includ
 
 ## Author
 
-Aspiring QA Automation Engineer  
+Aspiring QA Engineer  
 Focused on API Testing, Automation, and Manual QA Fundamentals  
 
