@@ -13,6 +13,11 @@ This project demonstrates API testing using Postman on the GoRest API. It includ
 * Environment Variables
 
 
+## API Used
+GoRest Public API  
+https://gorest.co.in/public/v2/users
+
+
 ## Test Scenarios
 
 ### CRUD Operations
