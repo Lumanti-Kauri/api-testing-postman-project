@@ -62,6 +62,5 @@ https://gorest.co.in/public/v2/users
 
 ## Author
 
-Aspiring QA Engineer  
-Focused on API Testing, Automation, and Manual QA Fundamentals  
+Lumanti Kauri  
 
